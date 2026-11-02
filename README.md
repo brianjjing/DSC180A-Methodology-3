@@ -1,4 +1,3 @@
 # DSC180A-Methodology-3
 
-Brian Jing
-Viki Shi
+Brian Jing and Viki Shi
